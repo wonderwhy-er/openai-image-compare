@@ -60,6 +60,10 @@ You need an OpenAI API key with access to the following models:
 - `dall-e-3`
 - `gpt-image-1`
 
+You can get your API key from the OpenAI platform: [https://platform.openai.com/api-keys](https://platform.openai.com/api-keys)
+
+Note that this application uses your own API key, and standard OpenAI usage charges will apply for any images generated.
+
 ## Deployment
 
 This application is fully static and can be deployed on any static hosting service, including:
