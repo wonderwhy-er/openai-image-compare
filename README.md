@@ -96,3 +96,4 @@ Feel free to check the [issues page](https://github.com/wonderwhy-er/openai-imag
 
 - [OpenAI API](https://platform.openai.com/) for providing the image generation capabilities
 - The evolution of AI image generation models from DALL-E 2 to GPT-image-1
+- Created with [Desktop Commander](https://desktopcommander.app/) and Claude - *Mission: vaguely understood. Result: perfectly deployed. Desktop Commander approved*
