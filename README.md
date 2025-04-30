@@ -96,4 +96,4 @@ Feel free to check the [issues page](https://github.com/wonderwhy-er/openai-imag
 
 - [OpenAI API](https://platform.openai.com/) for providing the image generation capabilities
 - The evolution of AI image generation models from DALL-E 2 to GPT-image-1
-- *Mission: vaguely understood. Result: perfectly deployed. Vibe Coded with [Desktop Commander](https://desktopcommander.app/) and Claude*
+- **Fully Vibe Coded with [Desktop Commander](https://desktopcommander.app/) and Claude**
